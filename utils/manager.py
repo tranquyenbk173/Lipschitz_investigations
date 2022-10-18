@@ -1,6 +1,6 @@
 import comet_ml
 from comet_ml import Experiment
-API_KEY = 'SapPaHUFNrFE9hfqfYZwx3sQp'
+API_KEY = '<>'
 PROJ_NAME = 'chay-bo-sung-lipschitz'
 WORKSPACE = 'tranquyenbk173'
 
